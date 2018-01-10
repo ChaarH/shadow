@@ -1,4 +1,4 @@
-<strong>The Demon Lord Shadow</strong>
+<strong><h1>The Demon Lord Shadow</h1></strong>
 
 Monster Generator
 
