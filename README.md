@@ -6,4 +6,6 @@ This is an initial project for the creation of a monster generator system for th
 
 It was created with the purpose of facilitating the generation of monsters in a faster and easier way. To help masters and players.
 
-<p><a href="http://alladinos.000webhostapp.com" target="_blank">The Demon Lord Shadow</a></p>
+The whole project was created in Brazilian Portuguese. In future, new languages will be implemented.
+
+<p>Check <a href="http://alladinos.000webhostapp.com" target="_blank">The Demon Lord Shadow</a></p>
